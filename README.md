@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm ASHRAF DEMERDI</h1>
+<h1 align="center">Hi 👋, I'm ACHRAF DEMERDI</h1>
 <h3 align="center">A passionate Student at Computer Engineering from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/plandek.com/wp-content/uploads/2023/08/16916853388775678326517400375285.jpg?fit=626%2C417&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-dem03&label=Profile%20views&color=0e75b6&style=flat" alt="ash-dem03" /> </p>
 
